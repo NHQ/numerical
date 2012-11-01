@@ -1,6 +1,6 @@
 {
   "name": "numerical",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "description": "gives yr numbers math helpers",
   "main": "numbers.js",
   "directories": {

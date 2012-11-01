@@ -41,7 +41,7 @@ module.exports = function(context){
     return subzero(this.round()-1)
   };
   n.prototype.bang = function(){
-    return this.multi.apply(this, this.subzero());
+    return this.multi.apply(this.round(), this.subzero());
   };
   n.prototype.sine = function(){
     return Math.sin(this)

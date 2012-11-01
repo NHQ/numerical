@@ -1,6 +1,6 @@
-#NPM INSTALL NUMERICAL
+###NPM INSTALL NUMERICAL
 
-##USAGE
+####USAGE
 
     num = require('numerical')
     num(Number);
